@@ -12,8 +12,8 @@ def main():
     try:
         # Connect to MySQL server
         cnx = mysql.connector.connect(
-            user='root',
-            password='mysqloli3532',
+            user='desisayonatan77',
+            password='Yo1&Bet1l*',
             host='localhost'
         )
         cursor = cnx.cursor()
